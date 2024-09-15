@@ -55,6 +55,7 @@ namespace WebApplication1
                 defaults: new {Controller = "Home", Action = "Index"}
                 );
 
+
             //app.Run(async (HttpContext) => { await HttpContext.Response.WriteAsync("Page Not Found 404"); });
             //app.MapGet("/", () => "Hello World!");
 
